@@ -1,0 +1,26 @@
+[
+    {
+        "id": "ir_01",
+        "region": "Tehran, Iran",
+        "latitude": 35.6892,
+        "longitude": 51.3890,
+        "description": "Urban marketplace soundscape with regional dialect.",
+        "audio_path": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" 
+    },
+    {
+        "id": "cn_01",
+        "region": "Sichuan, China",
+        "latitude": 30.5728,
+        "longitude": 104.0668,
+        "description": "Conversational Sichuanese tonal nuances.",
+        "audio_path": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+        "id": "in_01",
+        "region": "Bundelkhand, India",
+        "latitude": 25.4358,
+        "longitude": 78.5653,
+        "description": "Bundelkhandi folk oral history snippet.",
+        "audio_path": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    }
+]
